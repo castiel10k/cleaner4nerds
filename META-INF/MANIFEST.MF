@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.mycompany.mavenproject1.Mavenproject1
+Class-Path: .
+
